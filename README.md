@@ -1,1 +1,2 @@
-*VIM PARASHA*
+# VIM PARASHA
+> Трушные говноеды на месте!
