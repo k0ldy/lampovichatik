@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\bin\Debug\calculator.exe.config
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\bin\Debug\calculator.exe
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\bin\Debug\calculator.pdb
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.exe
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.pdb
+C:\Users\User\Desktop\basic_winform_calculator-master\calculator\obj\Debug\calculator.Form2.resources
